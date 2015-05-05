@@ -1,0 +1,17 @@
+{
+  "name": "Prueba",
+  "version": "0.0.1",
+  "authors": [
+    "Efrain Hernandez"
+  ],
+  "description": "Prueba del framework Laverel de PHP",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "prueba.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.2.2"
+  }
+}
